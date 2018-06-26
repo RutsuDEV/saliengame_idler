@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name		Ensingm2 Salien Game Idler
-// @namespace	https://github.com/ensingm2/saliengame_idler
+// @name		Salien Game Idler Polish Edition
+// @namespace	https://github.com/RukaDEV/saliengame_idler
 // @version		0.0.1
-// @author		ensingm2
+// @author		RukashiChan
 // @match		*://steamcommunity.com/saliengame/play
 // @match		*://steamcommunity.com/saliengame/play/
 // @grant		none
