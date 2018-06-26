@@ -1,11 +1,11 @@
 
 # Salien Game Idler Polish Edition
 
-[Link do gry Saliens] (https://steamcommunity.com/saliengame/play)
+[Link do gry Saliens](https://steamcommunity.com/saliengame/play)
 
 ### Wprowadzenie
 
-Jest to wersja Polska skryptu: [github.com/ensingm2/saliengame_idler] (https://github.com/ensingm2/saliengame_idler)
+Jest to wersja Polska skryptu: [github.com/ensingm2/saliengame_idler](https://github.com/ensingm2/saliengame_idler)
 
 ### Cechy
 * Nie trzeba uruchamiać gry, działa na głównej mapie.
