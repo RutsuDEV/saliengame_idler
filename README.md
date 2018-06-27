@@ -24,7 +24,7 @@ Jest to wersja Polska skryptu: [github.com/ensingm2/saliengame_idler](https://gi
 2. Wyświetl konsolę JavaScript
    1. Windows: F12 lub CTRL + Shift + J
    1. Mac: Command + Option + J
-3. Skopiuj kod JavaScript z [idle.js] (https://raw.githubusercontent.com/RukaDEV/saliengame_idler/master/idle.js) i wklej go do konsoli i naciśnij enter
+3. Skopiuj kod JavaScript z [idle.js](https://raw.githubusercontent.com/RukaDEV/saliengame_idler/master/idle.js) i wklej go do konsoli i naciśnij enter
    1. Dane wyjściowe można zobaczyć i śledzić w konsoli
 
 Uwaga: Skrypt może być również ustawiony na menedżerach użytkowników, takich jak Greasemonkey / Tampermonkey, jednak nie zaleca się włączania automatycznych aktualizacji dla _ * dowolnych * _ skryptów, dla własnego bezpieczeństwa.
